@@ -16,4 +16,4 @@
 
 </p>
 
-🙌 Hi, i'm Hashbi<br>📚 Nothing spesial about me, I just love learning something new <br>⚡ and i like read some comics and manga<br>😝 ganyu is the best waifu, ever
+🙌 Hi, i'm Hashbi<br>📚 Nothing spesial about me, I just love learning something new <br>⚡ and i like read some comics and manga<br>😝 hehe
