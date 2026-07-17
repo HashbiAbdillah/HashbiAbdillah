@@ -16,7 +16,7 @@ When I'm not coding or studying, you'll probably find me diving into some good c
 ---
 
 ### 🛠️ Tech Stack & Tools
-Berikut beberapa hal yang lagi/sering saya ulik:
+Here are a few things I’m currently exploring or often look into:
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -24,3 +24,5 @@ Berikut beberapa hal yang lagi/sering saya ulik:
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </p>
+
+Actually, I'm just addicted to doomscrolling
