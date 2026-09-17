@@ -10,7 +10,7 @@
 👋 **Hi, I'm Hashbi!** 
 Nothing special about me, just a tech enthusiast who loves learning something new every day. 
 When I'm not coding or studying, you'll probably find me diving into some good comics and manga. *akwokaokwkawok*
-BTw this is my linkedin: linkedin.com/in/hashbi-abdillah
+
 </div>
 
 ---
