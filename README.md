@@ -26,3 +26,4 @@ Here are a few things I’m currently exploring or often look into:
 </p>
 
 Actually, I'm just addicted to doomscrolling
+LinkedIn: linkedin.com/in/hashbi-abdillah
