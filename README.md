@@ -3,14 +3,14 @@
 # 💫 About Me:
 <img src="https://spinning.fish/fish.gif" width="600" alt="hehe" style="border-radius: 10px; margin-bottom: 20px;"/>
 
-### ⚡ "Just a casual human who loves to explore new things."
+###  "Just a casual human who loves to explore new things."
 
 ---
 
 👋 **Hi, I'm Hashbi!** 
 Nothing special about me, just a tech enthusiast who loves learning something new every day. 
-When I'm not coding or studying, you'll probably find me diving into some good comics and manga. *akwokaokwkawok* 🚀
-
+When I'm not coding or studying, you'll probably find me diving into some good comics and manga. *akwokaokwkawok*
+BTw this is my linkedin: linkedin.com/in/hashbi-abdillah
 </div>
 
 ---
@@ -26,4 +26,4 @@ Here are a few things I’m currently exploring or often look into:
 </p>
 
 Actually, I'm just addicted to doomscrolling
-LinkedIn: linkedin.com/in/hashbi-abdillah
+
